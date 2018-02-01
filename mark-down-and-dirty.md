@@ -14,7 +14,7 @@ blah
 
   * This is sub-bullet
 
-This is bold
+This is **bold**
 
 This is heading-1
 
