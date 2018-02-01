@@ -12,7 +12,7 @@ blah
 
 * This is bullet
 
-This is sub-bullet
+  * This is sub-bullet
 
 This is bold
 
