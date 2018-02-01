@@ -29,7 +29,11 @@ This is HTML link insert
 [test image](https://github.com/userlerueda/LTRCLD-1451/blob/master/images/neutron-2.png)
 
 
-This is table
+This is table with 2 columns
+
+|heading|heading|
+|-------|-------|
+
 
 This is section line
 
