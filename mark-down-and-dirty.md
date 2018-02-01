@@ -33,6 +33,7 @@ This is table with 2 columns
 
 |heading|heading|
 |-------|-------|
+|data|data|
 
 
 This is section line
