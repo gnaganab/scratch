@@ -10,7 +10,7 @@ blah
 blah
 ```
 
-This is bullet
+* This is bullet
 
 This is sub-bullet
 
