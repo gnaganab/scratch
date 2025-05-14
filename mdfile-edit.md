@@ -10,7 +10,7 @@
 - this is test html link [Cyber Patriots](https://www.uscyberpatriot.org)
 
 ### Image example
-![Cyber Patroits](https://www.uscyberpatriot.org/SiteCollectionImages/SATCOE_Website_Logo.jpg)
+![Cyber Patroits](md-test.png)
 
 
 
